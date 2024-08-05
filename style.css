@@ -1,0 +1,52 @@
+body {
+    background-color: #2A5D5A;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.text {
+    width: 636px;
+    font-size: 52px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 25px 0;
+    background-color: #311313;
+    margin: 22px auto 55px;
+    }
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    border:10px solid red;
+}
+.qwer{
+
+    background-color: black;
+    padding: 45px 52px;
+}
+.text3{
+    color: black;
+    width: 817px;
+    margin: auto;
+    padding: 54px 40px;
+    background-color: aqua;
+
+    font-size: 24px;
+    font-weight: 700;
+
+
+}
+.asd{
+    margin-top: 30px;
+   
+}
+
+
+
+
+
+
